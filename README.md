@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qrcodecomponent-using-html-and-css-Nojys9zvS)
-- Live Site URL: [Add live site URL here](https://zen-poincare-f3fe7c.netlify.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qrcodecomponent-using-html-and-css-Nojys9zvS)
+- Live Site URL: [Netlify](https://zen-poincare-f3fe7c.netlify.app/)
 
 ### Built with
 
