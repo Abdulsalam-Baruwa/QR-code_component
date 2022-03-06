@@ -17,7 +17,7 @@ body{
   justify-content: center;
 }
 .card{
-  height: 500px;
+  height: 600px;
   width: 400px;
   border-radius: 20px;
   background: hsl(0, 0%, 100%);
@@ -30,7 +30,21 @@ body{
 
 .content{
   text-align: center;
-  padding: 10px;
+}
+.content h2{
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  padding: 8px;
+  width: 80%;
+  margin: 0 auto;
+}
+.content p{
+  margin: 0 auto;
+  width: 65%;
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+  font-weight: 400;
+  padding: 8px;
 }
 
 .attribution a{
